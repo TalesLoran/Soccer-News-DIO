@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/tales/AndroidStudioProjects/Soccer-News-DIO/app/src/main/res/layout/fragment_favorites.xml" value="0.1" />
+        <entry key="..\:/Users/tales/AndroidStudioProjects/Soccer-News-DIO/app/src/main/res/layout/fragment_news.xml" value="0.1" />
         <entry key="..\:/Users/tales/AndroidStudioProjects/SoccerNewsDIO/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
         <entry key="..\:/Users/tales/AndroidStudioProjects/SoccerNewsDIO/app/src/main/res/layout/fragment_favorites.xml" value="0.16032608695652173" />
         <entry key="..\:/Users/tales/AndroidStudioProjects/SoccerNewsDIO/app/src/main/res/layout/fragment_news.xml" value="0.16032608695652173" />
