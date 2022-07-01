@@ -9,4 +9,4 @@ App Nativo Android de Notícias Sobre Futebol Feminino. Adicionamos algumas bran
 - [release/abstraindo-dominio-de-apps-android-nativos-em-java](https://github.com/TalesLoran/Soccer-News-DIO/tree/release/abstraindo-dominio-de-apps-android-nativos-em-java)
 
 3. [Consumo de APIs e Persistência de Dados Locais em Apps Android](https://docs.google.com/presentation/d/1FrsBIZ5v7scAZwzUfmQK7wPLl-NRU-LA/edit#slide=id.p2) (Slides)
-- TODO
+- [release/consumo-de-apis-e-percistencia-de-dados-local](https://github.com/TalesLoran/Soccer-News-DIO/tree/release/consumo-de-apis-e-percistencia-de-dados-local)
